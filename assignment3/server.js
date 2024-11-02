@@ -23,9 +23,9 @@ const upload = multer(); // No disk storage
 
 // Configure Cloudinary
 cloudinary.config({
-  cloud_name: 'your_cloud_name',
-  api_key: 'your_api_key',
-  api_secret: 'your_api_secret',
+  cloud_name: 'dvb5q5g34',
+  api_key: '569391134771446',
+  api_secret: 'ANIqgXcbADAgDheg9rFWIqgOVAA',
   secure: true
 });
 
